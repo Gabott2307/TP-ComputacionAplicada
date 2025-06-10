@@ -6,7 +6,7 @@ GNU/LINUX
 
 - Mateo Lorenzo Sauma
 
--[Nombre Apellido 3]
+- Joaquin Arce Carrillo
 
 -[Nombre Apellido 4]
 
