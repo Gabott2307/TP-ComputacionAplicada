@@ -4,7 +4,7 @@ GNU/LINUX
 
 - Gabriel Martinez Silva
 
--[Nombre Apellido 2]
+- Mateo Lorenzo Sauma
 
 -[Nombre Apellido 3]
 
