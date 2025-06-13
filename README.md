@@ -8,7 +8,7 @@ GNU/LINUX
 
 - Joaquin Arce Carrillo
 
--[Nombre Apellido 4]
+- Tiago Leonel Arroyo
 
 -[Nombre Apellido 5]
 
