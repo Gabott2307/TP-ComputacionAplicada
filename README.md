@@ -10,7 +10,7 @@ GNU/LINUX
 
 - Tiago Leonel Arroyo
 
--[Nombre Apellido 5]
+- Luciana Bustos
 
 DESCRIPCION:
 Este proyecto es el resultado de un trabajo práctico grupal para la materia de Computacion Aplicada. Usamos una máquina virtual Debian ya configurada, y sobre esa base montamos y configuramos varios servicios esenciales que se suelen pedir en un entorno real.
